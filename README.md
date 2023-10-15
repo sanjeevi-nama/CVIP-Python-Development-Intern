@@ -9,3 +9,8 @@
 #### -> Multiplication
 #### -> Division
 
+## Phase-1 
+## Golden Task- Random Password Generator
+### It provides options for
+### Password Length
+### No.of alphabts,digits,special characters to be added into password
